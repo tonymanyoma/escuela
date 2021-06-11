@@ -1,0 +1,47 @@
+{
+  "name": "sgp_movil",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Quasar App",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "AntonyManyoma <tonymanyoma5@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "@websanova/vue-auth": "^2.21.15-beta",
+    "animate.css": "^4.0.0",
+    "axios": "^0.18.1",
+    "es6-promise": "^4.2.8",
+    "facebook-login-vuejs": "^2.1.3",
+    "quasar": "^1.0.0",
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0",
+    "vue-axios": "^2.1.5",
+    "vue-beautiful-chat": "^2.3.1",
+    "vue-google-autocomplete": "^1.1.0",
+    "vue-google-login": "^2.0.5",
+    "vue-moment": "^4.1.0",
+    "vue-router": "^3.1.6",
+    "vue-select": "^3.10.3",
+    "vue-socket.io": "^2.1.1-b",
+    "vue2-google-maps": "^0.10.7",
+    "vuesax": "^3.12.2",
+    "vuex-router-sync": "^5.0.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@quasar/quasar-app-extension-icon-genie": "^1.1.3"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
