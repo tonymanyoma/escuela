@@ -1,5 +1,11 @@
 # Manual de usuario
 
+# Tecnologías utilizadas
+1. Node js
+2. Vue js
+3. Mongodb
+4. Mysql
+
 # Requerimientos
 
 1. Node js
